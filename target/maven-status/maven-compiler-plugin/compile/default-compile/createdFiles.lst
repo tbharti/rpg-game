@@ -1,0 +1,16 @@
+com\ramayan\persistence\PlayerDao.class
+com\ramayan\model\Forest.class
+com\ramayan\persistence\impl\PlayerDaoImpl.class
+com\ramayan\service\impl\UserManageCLI.class
+com\ramayan\persistence\impl\HSQLDBConnection.class
+com\ramayan\service\impl\ConsoleBasedUI.class
+com\ramayan\model\Spot.class
+com\ramayan\utils\ASCIIArt$Settings.class
+com\ramayan\constant\RamayanCharacter.class
+com\ramayan\model\Monster.class
+com\ramayan\Game.class
+com\ramayan\service\PlayerManagement.class
+com\ramayan\model\Battle.class
+com\ramayan\model\Player.class
+com\ramayan\service\UIservice.class
+com\ramayan\utils\ASCIIArt.class
